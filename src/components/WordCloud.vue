@@ -261,7 +261,7 @@ export default {
 </script>
 
 
-<style scope>
+<style scoped>
 .wordCloud {
   display: inline-block;
   position: relative;
